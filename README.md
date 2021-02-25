@@ -113,6 +113,6 @@ Project Link: [https://github.com/OpenDRR/data](https://github.com/OpenDRR/data)
 ## Acknowledgements
 
 * [Web Experience Toolkit](https://github.com/wet-boew/wet-boew)
-* [Jekyll Data Pages Generator](https://github.com/avillafiorita/jekyll-datapage_gen)
+* [Gatsby](https://www.gatsbyjs.com/)
 * [Leaflet](https://leafletjs.com/)
 * [GitHub Pages](https://pages.github.com)
