@@ -1,0 +1,117 @@
+.MAP {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#BC:hover {
+    stroke: #002868 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #002868 !important;
+    cursor: pointer;
+}
+
+#AB:hover {
+    stroke: #002868 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #002868 !important;
+    cursor: pointer;
+}
+
+#SK:hover {
+    stroke: #002868 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #002868 !important;
+    cursor: pointer;
+}
+
+#MB:hover {
+    stroke: #002868 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #002868 !important;
+    cursor: pointer;
+}
+
+#ON:hover {
+    stroke: #002868 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #002868 !important;
+    cursor: pointer;
+}
+
+#QC:hover {
+    stroke: #002868 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #002868 !important;
+    cursor: pointer;
+}
+
+#NB:hover {
+    stroke: #002868 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #002868 !important;
+    cursor: pointer;
+}
+
+#NS:hover {
+    stroke: #002868 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #002868 !important;
+    cursor: pointer;
+}
+
+#PE:hover {
+    stroke: #002868 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #002868 !important;
+    cursor: pointer; 
+}
+
+#NL:hover {
+    stroke: #002868 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #002868 !important;
+    cursor: pointer;
+}
+
+#YT:hover {
+    stroke: #002868 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #002868 !important;
+    cursor: pointer; 
+}
+
+#NT:hover {
+    stroke: #002868 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #002868 !important;
+    cursor: pointer;
+}
+
+#NU:hover {
+    stroke: #002868 !important;
+    stroke-width:2px;
+    stroke-linejoin: round;
+    fill: #002868 !important;
+    cursor: pointer;
+}
+
+text {
+    visibility: hidden;
+}
+path:hover text {
+ visibility: visible;
+}
