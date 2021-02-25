@@ -3,26 +3,18 @@
 1. ** Clone the repo **
     ```shell
     git clone https://github.com/michaelbrian93/opendrr-geospatial.git
-    cd my-default-starter/
+    cd opendrr-geospatial
     yarn install // npm install
     gatsby develop
     ```
-1.  **Start developing.**
 
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd my-default-starter/
-    gatsby develop
-    ```
-
-1.  **Open the source code and start editing!**
+2.  **Open the source code and start editing!**
 
     Your site is now running at `http://localhost:8000`!
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+    Open the `opendrr-geospatial` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
@@ -74,10 +66,53 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-## 💫 Deploy
+Note this manual integration of Leaflet was taken from: https://robyremzy.github.io/blog/2016/leaflet-inside-a-post/
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+<!-- USAGE EXAMPLES -->
+## Usage
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
+_For more examples, please refer to the [Documentation](https://github.com/OpenDRR/data/tree/main/documentation)_
 
-<!-- AUTO-GENERATED-CONTENT:END -->
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/OpenDRR/data/issues) for a list of proposed features (and known issues).
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+### Prerequisites
+
+* GitLFS installed (https://git-lfs.github.com)
+
+### Steps
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+## Contact
+
+Joost Van Ulden - [jvanulde](https://github.com/jvanulde) - joost.vanulden@canada.ca
+
+Nicky Hastings - nicky.hastings@canada.ca
+
+Project Link: [https://github.com/OpenDRR/data](https://github.com/OpenDRR/data)
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* [Web Experience Toolkit](https://github.com/wet-boew/wet-boew)
+* [Jekyll Data Pages Generator](https://github.com/avillafiorita/jekyll-datapage_gen)
+* [Leaflet](https://leafletjs.com/)
+* [GitHub Pages](https://pages.github.com)
