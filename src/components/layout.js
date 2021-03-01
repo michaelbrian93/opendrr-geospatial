@@ -8,7 +8,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import Header from "./header"
-// import Footer from "./footer"
+import Footer from "./footer"
 import "../styles/theme-wet-boew/css/ie8-theme.css"
 
 const Layout = ({ children }) => {
@@ -16,7 +16,7 @@ const Layout = ({ children }) => {
     <>
         <Header />
           {children}
-      {/* <Footer/> */}
+      <Footer/>
     </>
   )
 }

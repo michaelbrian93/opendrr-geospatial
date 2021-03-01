@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
+
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
@@ -9,6 +10,7 @@ export default function Template({
     <div className="container">
       <div className="news">
         <h1>{frontmatter.title}</h1>
+        <hr/>
         <h2>{frontmatter.date}</h2>
         <div
           className="news-content"
